@@ -1,0 +1,809 @@
+<channels>
+<channel>
+<name>[COLOR lime] • [COLOR blue][B][I]Trio d´Ataque[/I][/B][/COLOR]</name>
+<thumbnail>http://s20.postimg.org/rmzmq7yd9/17798_34751_78017.jpg</thumbnail>
+<fanart>http://s20.postimg.org/m91rlf6il/17798_34751_78017.jpg</fanart>
+</subitem>
+</item>
+<item>  
+<title>[COLOR=yellow][B][I]Trio d´Ataque 10 Janeiro 2016 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p2240/p2240_1_10012016.mp4</link>
+<thumbnail>http://s20.postimg.org/8vfsggr7h/17798_34751_78017.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Trio d´Ataque 03 Janeiro 2016 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p1735/p1735_1_03012016.mp4</link>
+<thumbnail>http://s20.postimg.org/8vfsggr7h/17798_34751_78017.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Trio d´Ataque 20 Dezembro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p1735/p1735_1_20122015.mp4</link>
+<thumbnail>http://s20.postimg.org/8vfsggr7h/17798_34751_78017.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Trio d´Ataque 13 Dezembro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p1735/TRIO_2_20151213.mp4</link>
+<thumbnail>http://s20.postimg.org/8vfsggr7h/17798_34751_78017.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Trio d´Ataque 06 Dezembro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p1735/TRIO_2_20151206.mp4</link>
+<thumbnail>http://s20.postimg.org/8vfsggr7h/17798_34751_78017.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Trio d´Ataque 29 Novembro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p1735/TRIO_2_20151129.mp4</link>
+<thumbnail>http://s20.postimg.org/8vfsggr7h/17798_34751_78017.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Trio d´Ataque 22 Novembro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p1735/p1735_1_22112015.mp4</link>
+<thumbnail>http://s20.postimg.org/8vfsggr7h/17798_34751_78017.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Trio d´Ataque 15 Novembro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p1735/p1735_1_15112015.mp4</link>
+<thumbnail>http://s20.postimg.org/8vfsggr7h/17798_34751_78017.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Trio d´Ataque 08 Novembro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p1735/p1735_1_08112015.mp4</link>
+<thumbnail>http://s20.postimg.org/8vfsggr7h/17798_34751_78017.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Trio d´Ataque 01 Novembro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p1735/TRIO_2_20151101.mp4</link>
+<thumbnail>http://s20.postimg.org/8vfsggr7h/17798_34751_78017.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Trio d´Ataque 25 Outubro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p1735/TRIO_2_20151025.mp4  swfUrl=http://www.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/p1735/e211192/trio-de-ataque/462200
+</link>
+<thumbnail>http://s20.postimg.org/8vfsggr7h/17798_34751_78017.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Trio d´Ataque 18 Outubro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p1735/TRIO_2_20151018.mp4  swfUrl=http://www.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/p1735/e210366/trio-de-ataque/460675
+</link>
+<thumbnail>http://s20.postimg.org/8vfsggr7h/17798_34751_78017.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Trio d´Ataque 11 Outubro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p1735/TRIO_2_20151011.mp4  swfUrl=http://www.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/p1735/e209526/trio-de-ataque/459225
+</link>
+<thumbnail>http://s20.postimg.org/8vfsggr7h/17798_34751_78017.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Trio d´Ataque 27 Setembro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p1735/TRIO_20150927.mp4  swfUrl=http://www.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/p1735/e208068/trio-de-ataque
+</link>
+<thumbnail>http://s20.postimg.org/8vfsggr7h/17798_34751_78017.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Trio d´Ataque 20 Setembro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p1735/p1735_1_20092015.mp4  swfUrl=http://www.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/p1735/e207205/trio-de-ataque
+</link>
+<thumbnail>http://s20.postimg.org/8vfsggr7h/17798_34751_78017.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Trio d´Ataque 13 Setembro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p1735/p1735_1_13092015.mp4  swfUrl=http://www.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/p1735/e206513/trio-de-ataque
+</link>
+<thumbnail>http://s20.postimg.org/8vfsggr7h/17798_34751_78017.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Trio d´Ataque 06 Setembro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p1735/p1735_2_06092015.mp4  swfUrl=http://www.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/p1735/e205739/trio-de-ataque/452206
+</link>
+<thumbnail>http://s20.postimg.org/8vfsggr7h/17798_34751_78017.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Trio d´Ataque 30 Agosto 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p1735/p1735_1_30082015.mp4  swfUrl=http://www.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/p1735/e205244/trio-de-ataque
+</link>
+<thumbnail>http://s20.postimg.org/8vfsggr7h/17798_34751_78017.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Trio d´Ataque 23 Agosto 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p1735/p1735_2_23082015.mp4  swfUrl=http://www.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/p1735/e204845/trio-de-ataque/450095
+</link>
+<thumbnail>http://s20.postimg.org/8vfsggr7h/17798_34751_78017.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Trio d´Ataque 16 Agosto 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p1735/p1735_1_16082015.mp4  swfUrl=http://www.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/p1735/e204348/trio-de-ataque
+</link>
+<thumbnail>http://s20.postimg.org/8vfsggr7h/17798_34751_78017.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Trio d´Ataque 09 Agosto 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p1735/TRIO_3_20150809.mp4  swfUrl=http://www.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/p1735/e203851/trio-de-ataque/447873
+</link>
+<thumbnail>http://s20.postimg.org/8vfsggr7h/17798_34751_78017.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Trio d´Ataque 02 Agosto 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p1735/p1735_1_02082015.mp4  swfUrl=http://www.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/p1735/e203404/trio-de-ataque
+</link>
+<thumbnail>http://s20.postimg.org/8vfsggr7h/17798_34751_78017.jpg</thumbnail>
+ </item>
+
+<channels>
+<channel>
+<name>[COLOR lime] • [COLOR blue][B][I]Prolongamento[/I][/B][/COLOR]</name>
+<thumbnail>http://s20.postimg.org/lorbwh2nx/prolongamento2.jpg</thumbnail>
+<fanart>http://s20.postimg.org/p5oslpccd/ttttt.jpg</fanart>
+</subitem>
+</item>
+<item>  
+<title>[COLOR=yellow][B][I]Prolongamento 11 Janeiro 2016 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=pXraa8iV9aI</link>
+<thumbnail>http://s20.postimg.org/npda3k9fh/prolongamento.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Prolongamento 21 Dezembro 2015 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=joRLmr2NlvE</link>
+<thumbnail>http://s20.postimg.org/npda3k9fh/prolongamento.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Prolongamento 14 Dezembro 2015 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Bhrc8QNdNGM</link>
+<thumbnail>http://s20.postimg.org/npda3k9fh/prolongamento.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Prolongamento 07 Dezembro 2015 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=ZgIqwkHO1Sc</link>
+<thumbnail>http://s20.postimg.org/npda3k9fh/prolongamento.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Prolongamento 30 Novembro 2015 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=dntFnIFslt8</link>
+<thumbnail>http://s20.postimg.org/npda3k9fh/prolongamento.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Prolongamento 16 Novembro 2015 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=KbR-O6UT0Vw</link>
+<thumbnail>http://s20.postimg.org/npda3k9fh/prolongamento.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Prolongamento 09 Novembro 2015 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=oR40cAILoOY</link>
+<thumbnail>http://s20.postimg.org/npda3k9fh/prolongamento.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Prolongamento 02 Novembro 2015 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Idigb5Ss4F8</link>
+<thumbnail>http://s20.postimg.org/npda3k9fh/prolongamento.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Prolongamento 26 Outubro 2015 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=w6bsI8hs3rQ</link>
+<thumbnail>http://s20.postimg.org/npda3k9fh/prolongamento.jpg</thumbnail>
+ </item>
+
+<channels>
+<channel>
+<name>[COLOR lime] • [COLOR blue][B][I]O Dia Seguinte[/I][/B][/COLOR]</name>
+<thumbnail>http://s20.postimg.org/n5chph1a5/15355173_q_QI3k.jpg</thumbnail>
+<fanart>http://s20.postimg.org/y7hknwvct/12333.jpg</fanart>
+</subitem>
+</item>
+<item>  
+<title>[COLOR=yellow][B][I]O Dia Seguinte 11 Janeiro 2016 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=M0hOxtQSKtI</link>
+<thumbnail>http://s20.postimg.org/fdvrqwx4t/15355173_q_QI3k.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]O Dia Seguinte 04 Janeiro 2016 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=qO-TIebm2QY</link>
+<thumbnail>http://s20.postimg.org/fdvrqwx4t/15355173_q_QI3k.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]O Dia Seguinte 21 Dezembro 2015 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=kEdAk4XzJgM</link>
+<thumbnail>http://s20.postimg.org/fdvrqwx4t/15355173_q_QI3k.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]O Dia Seguinte 14 Dezembro 2015 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=YHuWKvWXRV4</link>
+<thumbnail>http://s20.postimg.org/fdvrqwx4t/15355173_q_QI3k.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]O Dia Seguinte 07 Dezembro 2015 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=IilCgBxLQJM</link>
+<thumbnail>http://s20.postimg.org/fdvrqwx4t/15355173_q_QI3k.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]O Dia Seguinte 30 Novembro 2015 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=K7t1Pnnjjoc</link>
+<thumbnail>http://s20.postimg.org/fdvrqwx4t/15355173_q_QI3k.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]O Dia Seguinte 23 Novembro 2015 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=6q2sUmXatMg</link>
+<thumbnail>http://s20.postimg.org/fdvrqwx4t/15355173_q_QI3k.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]O Dia Seguinte 16 Novembro 2015 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=c5AGTF9rqXo</link>
+<thumbnail>http://s20.postimg.org/fdvrqwx4t/15355173_q_QI3k.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]O Dia Seguinte 09 Novembro 2015 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=fubHLlD0BQM</link>
+<thumbnail>http://s20.postimg.org/fdvrqwx4t/15355173_q_QI3k.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]O Dia Seguinte 02 Novembro 2015 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=aIGnI20rFGo</link>
+<thumbnail>http://s20.postimg.org/fdvrqwx4t/15355173_q_QI3k.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]O Dia Seguinte 26 Outubro 2015 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=BCUQjrIsjZI</link>
+<thumbnail>http://s20.postimg.org/fdvrqwx4t/15355173_q_QI3k.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]O Dia Seguinte 19 Outubro 2015 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=lzEWnJxw8s4</link>
+<thumbnail>http://s20.postimg.org/fdvrqwx4t/15355173_q_QI3k.jpg</thumbnail>
+ </item>
+
+<channels>
+<channel>
+<name>[COLOR lime] • [COLOR blue][B][I]Tempo Extra[/I][/B][/COLOR]</name>
+<thumbnail>http://s20.postimg.org/k4wnmrcu5/560460_375690122470132_2020235645_n.jpg</thumbnail>
+<fanart>http://s20.postimg.org/w81zabnwd/Sem_T_tulo123.jpg</fanart>
+</subitem>
+</item>
+<item>  
+<title>[COLOR=yellow][B][I]Tempo Extra 12 Janeiro 2016 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=H8XJ_ymFqtk</link>
+<thumbnail>http://s20.postimg.org/6qo64gvjx/564374_383033611735783_1933046576_n.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Tempo Extra 22 Dezembro 2015 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=H8XJ_ymFqtk</link>
+<thumbnail>http://s20.postimg.org/6qo64gvjx/564374_383033611735783_1933046576_n.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Tempo Extra 08 Dezembro 2015 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=tWbBXg3PI-4</link>
+<thumbnail>http://s20.postimg.org/6qo64gvjx/564374_383033611735783_1933046576_n.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Tempo Extra 01 Dezembro 2015 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=3Bj22nw06qc</link>
+<thumbnail>http://s20.postimg.org/6qo64gvjx/564374_383033611735783_1933046576_n.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Tempo Extra 24 Novembro 2015 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=zQFa1zDczQc</link>
+<thumbnail>http://s20.postimg.org/6qo64gvjx/564374_383033611735783_1933046576_n.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Tempo Extra 10 Novembro 2015 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Q_VWu0diVfM</link>
+<thumbnail>http://s20.postimg.org/6qo64gvjx/564374_383033611735783_1933046576_n.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Tempo Extra 03 Novembro 2015 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=NYfgQpdhHmI</link>
+<thumbnail>http://s20.postimg.org/6qo64gvjx/564374_383033611735783_1933046576_n.jpg</thumbnail>
+ </item>
+
+<channels>
+<channel>
+<name>[COLOR lime] • [COLOR blue][B][I]Grande Área[/I][/B][/COLOR]</name>
+<thumbnail>http://s20.postimg.org/oxy18nfst/grande.jpg</thumbnail>
+<fanart>http://s20.postimg.org/w2fuhon25/image.jpg</fanart>
+</subitem>
+</item>
+<item>  
+<title>[COLOR=yellow][B][I]Grande Área 17 Dezembro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p1733/p1733_1_17122015.mp4</link>
+<thumbnail>http://s20.postimg.org/sk3ulam65/grande.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Grande Área 10 Dezembro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p1733/p1733_1_10122015.mp4</link>
+<thumbnail>http://s20.postimg.org/sk3ulam65/grande.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Grande Área 03 Dezembro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p1733/p1733_1_03122015.mp4</link>
+<thumbnail>http://s20.postimg.org/sk3ulam65/grande.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Grande Área 26 Novembro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p1733/p1733_1_26112015.mp4</link>
+<thumbnail>http://s20.postimg.org/sk3ulam65/grande.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Grande Área 19 Novembro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p1733/p1733_1_19112015.mp4</link>
+<thumbnail>http://s20.postimg.org/sk3ulam65/grande.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Grande Área 12 Novembro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p1733/p1733_1_12112015.mp4</link>
+<thumbnail>http://s20.postimg.org/sk3ulam65/grande.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Grande Área 05 Novembro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p1733/p1733_1_05112015.mp4</link>
+<thumbnail>http://s20.postimg.org/sk3ulam65/grande.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Grande Área 29 Outubro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p1733/p1733_1_29102015.mp4</link>
+<thumbnail>http://s20.postimg.org/sk3ulam65/grande.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Grande Área 22 Outubro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p1733/p1733_1_22102015.mp4</link>
+<thumbnail>http://s20.postimg.org/sk3ulam65/grande.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Grande Área 15 Outubro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p1733/p1733_1_15102015.mp4</link>
+<thumbnail>http://s20.postimg.org/sk3ulam65/grande.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Grande Área 08 Outubro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p1733/p1733_1_08102015.mp4</link>
+<thumbnail>http://s20.postimg.org/sk3ulam65/grande.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Grande Área 01 Outubro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p1733/p1733_1_01102015.mp4</link>
+<thumbnail>http://s20.postimg.org/sk3ulam65/grande.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Grande Área 24 Setembro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p1733/GRANDEAREA_20150924.mp4</link>
+<thumbnail>http://s20.postimg.org/sk3ulam65/grande.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Grande Área 17 Setembro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p1733/GRANDEAREA_20150917.mp4</link>
+<thumbnail>http://s20.postimg.org/sk3ulam65/grande.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Grande Área 10 Setembro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p1733/grandearea_20150910.mp4</link>
+<thumbnail>http://s20.postimg.org/sk3ulam65/grande.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Grande Área 27 Agosto 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod<playpath>mp4:/nas2.share/h264/512x384/p1733/granarea_27082015.mp4</link>
+<thumbnail>http://s20.postimg.org/sk3ulam65/grande.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Grande Área 20 Agosto 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p1733/grandearea_20082015.mp4</link>
+<thumbnail>http://s20.postimg.org/sk3ulam65/grande.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Grande Área 13 Agosto 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p1733/grandearea_13082015.mp4</link>
+<thumbnail>http://s20.postimg.org/sk3ulam65/grande.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Grande Área 06 Agosto 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p1733/grandearea_20150806.mp4</link>
+<thumbnail>http://s20.postimg.org/sk3ulam65/grande.jpg</thumbnail>
+ </item>
+
+
+<channels>
+<channel>
+<name>[COLOR lime] • [COLOR blue][B][I]O Quadratura do Círculo[/I][/B][/COLOR]</name>
+<thumbnail>http://s20.postimg.org/sd267o799/7ed44169a73c45d6cd917e67c8acdb2d.jpg</thumbnail>
+<fanart>http://s20.postimg.org/rm4uo5fi5/image.jpg</fanart>
+</subitem>
+</item>
+<item> 
+<title>[COLOR=yellow][B][I]Quadratura do Círculo 14 Janeiro 2016 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=GUleFrb07E8</link>
+<thumbnail>http://s20.postimg.org/e96aza01p/2014_12_19_quad_do_circo.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]Quadratura do Círculo 08 Janeiro 2016 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=c-9USBhcWFE</link>
+<thumbnail>http://s20.postimg.org/e96aza01p/2014_12_19_quad_do_circo.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]Quadratura do Círculo 07 Janeiro 2016 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=0uulDehAMuw</link>
+<thumbnail>http://s20.postimg.org/e96aza01p/2014_12_19_quad_do_circo.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]Quadratura do Círculo 24 Dezembro 2015 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=VX6P6MpLjdg</link>
+<thumbnail>http://s20.postimg.org/e96aza01p/2014_12_19_quad_do_circo.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]Quadratura do Círculo 17 Dezembro 2015 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Y-lXyaOiXh8</link>
+<thumbnail>http://s20.postimg.org/e96aza01p/2014_12_19_quad_do_circo.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]Quadratura do Círculo 15 Dezembro 2015 Especial [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=lM5s_t7l3ME</link>
+<thumbnail>http://s20.postimg.org/e96aza01p/2014_12_19_quad_do_circo.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]Quadratura do Círculo 10 Dezembro 2015 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Oh4TkFvlvA0</link>
+<thumbnail>http://s20.postimg.org/e96aza01p/2014_12_19_quad_do_circo.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]Quadratura do Círculo 03 Dezembro 2015 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=HRG0H77qDfg</link>
+<thumbnail>http://s20.postimg.org/e96aza01p/2014_12_19_quad_do_circo.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]Quadratura do Círculo 26 Novembro 2015 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Bd-DdkQXvKU</link>
+<thumbnail>http://s20.postimg.org/e96aza01p/2014_12_19_quad_do_circo.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]Quadratura do Círculo 19 Novembro 2015 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=voChfRb-vBk</link>
+<thumbnail>http://s20.postimg.org/e96aza01p/2014_12_19_quad_do_circo.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]Quadratura do Círculo 12 Novembro 2015 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=kbDO-0KIjN8</link>
+<thumbnail>http://s20.postimg.org/e96aza01p/2014_12_19_quad_do_circo.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]Quadratura do Círculo 05 Novembro 2015 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=BIyPdEsLH9c</link>
+<thumbnail>http://s20.postimg.org/e96aza01p/2014_12_19_quad_do_circo.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]Quadratura do Círculo 29 Outubro 2015 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=wxPvXC4bQr0</link>
+<thumbnail>http://s20.postimg.org/e96aza01p/2014_12_19_quad_do_circo.jpg</thumbnail>
+ </item>
+
+<channels>
+<channel>
+<name>[COLOR lime] • [COLOR blue][B][I]O Eixo do Mal[/I][/B][/COLOR]</name>
+<thumbnail>http://s20.postimg.org/giufa18zh/eixo.jpg</thumbnail>
+<fanart>http://s20.postimg.org/4i8z9b1kt/323.jpg</fanart>
+</subitem>
+</item>
+<item> 
+<title>[COLOR=yellow][B][I]O Eixo do Mal 02 Janeiro 2016 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=8GMHsT7xZ4o</link>
+<thumbnail>http://s20.postimg.org/5n31eoo1p/2011_01_17_eixo_do_mal.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]O Eixo do Mal 26 Dezembro 2015 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=0QTzw3USR6Y</link>
+<thumbnail>http://s20.postimg.org/5n31eoo1p/2011_01_17_eixo_do_mal.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]O Eixo do Mal 19 Dezembro 2015 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=kXvikz9YQG8</link>
+<thumbnail>http://s20.postimg.org/5n31eoo1p/2011_01_17_eixo_do_mal.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]O Eixo do Mal 12 Dezembro 2015 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=E0k7v2y5jgE</link>
+<thumbnail>http://s20.postimg.org/5n31eoo1p/2011_01_17_eixo_do_mal.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]O Eixo do Mal 05 Dezembro 2015 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=lBm3mj2C3zE</link>
+<thumbnail>http://s20.postimg.org/5n31eoo1p/2011_01_17_eixo_do_mal.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]O Eixo do Mal 28 Novembro 2015 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=9I0MNQ6nwmE</link>
+<thumbnail>http://s20.postimg.org/5n31eoo1p/2011_01_17_eixo_do_mal.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]O Eixo do Mal 21 Novembro 2015 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=5uH2v1iu6qI</link>
+<thumbnail>http://s20.postimg.org/5n31eoo1p/2011_01_17_eixo_do_mal.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]O Eixo do Mal 14 Novembro 2015 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=BmitExtvNC0</link>
+<thumbnail>http://s20.postimg.org/5n31eoo1p/2011_01_17_eixo_do_mal.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]O Eixo do Mal 07 Novembro 2015 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=G0nZAaVMEH0</link>
+<thumbnail>http://s20.postimg.org/5n31eoo1p/2011_01_17_eixo_do_mal.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]O Eixo do Mal 30 Outubro 2015 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=HThHcL2Bsm4</link>
+<thumbnail>http://s20.postimg.org/5n31eoo1p/2011_01_17_eixo_do_mal.jpg</thumbnail>
+ </item>
+
+<channels>
+<channel>
+<name>[COLOR lime] • [COLOR blue][B][I]Governo Sombra[/I][/B][/COLOR]</name>
+<thumbnail>http://s20.postimg.org/ojdbc9fb1/transferir.jpg</thumbnail>
+<fanart>http://s20.postimg.org/52slpqk71/90000.jpg</fanart>
+</subitem>
+</item>
+<item> 
+<title>[COLOR=yellow][B][I]Governo Sombra 02 Janeiro 2016 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=boetcqoTs7A</link>
+<thumbnail>http://s20.postimg.org/fqwcoku65/transferir.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]Governo Sombra 26 Dezembro 2015 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=SDantHTr5z8</link>
+<thumbnail>http://s20.postimg.org/fqwcoku65/transferir.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]Governo Sombra 19 Dezembro 2015 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=7K6-Z3-k7jI</link>
+<thumbnail>http://s20.postimg.org/fqwcoku65/transferir.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]Governo Sombra 12 Dezembro 2015 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=kgSE0dv2RE4</link>
+<thumbnail>http://s20.postimg.org/fqwcoku65/transferir.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]Governo Sombra 05 Dezembro 2015 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=SN37iJ48-rA</link>
+<thumbnail>http://s20.postimg.org/fqwcoku65/transferir.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]Governo Sombra 28 Novembro 2015 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=a-Igv1hf9gs</link>
+<thumbnail>http://s20.postimg.org/fqwcoku65/transferir.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]Governo Sombra 21 Novembro 2015 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Gr1bDJU8cIc</link>
+<thumbnail>http://s20.postimg.org/fqwcoku65/transferir.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]Governo Sombra 14 Novembro 2015 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=96Kc3cxZTow</link>
+<thumbnail>http://s20.postimg.org/fqwcoku65/transferir.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]Governo Sombra 07 Novembro 2015 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=O_mJKT9bGg0</link>
+<thumbnail>http://s20.postimg.org/fqwcoku65/transferir.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]Governo Sombra 30 Outubro 2015 [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=G6aFvcdp9Q0</link>
+<thumbnail>http://s20.postimg.org/fqwcoku65/transferir.jpg</thumbnail>
+ </item>
+
+<channels>
+<channel>
+<name>[COLOR lime] • [COLOR blue][B][I]5 Para Meia-Noite[/I][/B][/COLOR]</name>
+<thumbnail>http://s20.postimg.org/iq8v39fwd/1d_OOi8y_B.jpg</thumbnail>
+<fanart>http://s20.postimg.org/8u7s3ma4d/12144765_10153576846841014_3521754728288486259_n.jpg</fanart>
+</subitem>
+</item>
+<item>
+<title>[COLOR=yellow][B][I]5 Para Meia-Noite 23 Dezembro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p2076/p2076_1_20151223.mp4</link>
+<thumbnail>http://s20.postimg.org/rb6s86fgd/1d_OOi8y_B.jpg</thumbnail>
+ </item>
+<item>
+<title>[COLOR=yellow][B][I]5 Para Meia-Noite 22 Dezembro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p1842/p1842_1_20150730.mp4</link>
+<thumbnail>http://s20.postimg.org/rb6s86fgd/1d_OOi8y_B.jpg</thumbnail>
+ </item>
+<item>
+<title>[COLOR=yellow][B][I]5 Para Meia-Noite 18 Dezembro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvodplaypath=mp4:/nas2.share/h264/512x384/p2076/p2076_1_20151218.mp4</link>
+<thumbnail>http://s20.postimg.org/rb6s86fgd/1d_OOi8y_B.jpg</thumbnail>
+ </item>
+<item>
+<title>[COLOR=yellow][B][I]5 Para Meia-Noite 17 Dezembro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p2076/p2076_1_20151217.mp4</link>
+<thumbnail>http://s20.postimg.org/rb6s86fgd/1d_OOi8y_B.jpg</thumbnail>
+ </item>
+<item>
+<title>[COLOR=yellow][B][I]5 Para Meia-Noite 16 Dezembro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p2076/p2076_1_20151216.mp4</link>
+<thumbnail>http://s20.postimg.org/rb6s86fgd/1d_OOi8y_B.jpg</thumbnail>
+ </item>
+<item>
+<title>[COLOR=yellow][B][I]5 Para Meia-Noite 15 Dezembro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p2076/p2076_1_20151215.mp4</link>
+<thumbnail>http://s20.postimg.org/rb6s86fgd/1d_OOi8y_B.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]5 Para Meia-Noite 11 Dezembro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p2076/p2076_1_20151211.mp4</link>
+<thumbnail>http://s20.postimg.org/rb6s86fgd/1d_OOi8y_B.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]5 Para Meia-Noite 10 Dezembro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p2076/p2076_1_20151210.mp4</link>
+<thumbnail>http://s20.postimg.org/rb6s86fgd/1d_OOi8y_B.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]5 Para Meia-Noite 09 Dezembro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p2076/p2076_1_20151209.mp4</link>
+<thumbnail>http://s20.postimg.org/rb6s86fgd/1d_OOi8y_B.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]5 Para Meia-Noite 08 Dezembro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p2076/p2076_1_20151208.mp4</link>
+<thumbnail>http://s20.postimg.org/rb6s86fgd/1d_OOi8y_B.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]5 Para Meia-Noite 07 Dezembro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p2076/p2076_1_20151207.mp4</link>
+<thumbnail>http://s20.postimg.org/rb6s86fgd/1d_OOi8y_B.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]5 Para Meia-Noite 04 Dezembro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p2076/p2076_1_20151204.mp4</link>
+<thumbnail>http://s20.postimg.org/rb6s86fgd/1d_OOi8y_B.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]5 Para Meia-Noite 03 Dezembro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p2076/p2076_1_20151203.mp4</link>
+<thumbnail>http://s20.postimg.org/rb6s86fgd/1d_OOi8y_B.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]5 Para Meia-Noite 02 Dezembro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p2076/p2076_1_20151202.mp4</link>
+<thumbnail>http://s20.postimg.org/rb6s86fgd/1d_OOi8y_B.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]5 Para Meia-Noite 01 Dezembro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p2076/p2076_1_20151201.mp4</link>
+<thumbnail>http://s20.postimg.org/rb6s86fgd/1d_OOi8y_B.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]5 Para Meia-Noite 30 Novembro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p2076/p2076_1_20151130.mp4</link>
+<thumbnail>http://s20.postimg.org/rb6s86fgd/1d_OOi8y_B.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]5 Para Meia-Noite 27 Novembro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p2076/p2076_1_20151127.mp4</link>
+<thumbnail>http://s20.postimg.org/rb6s86fgd/1d_OOi8y_B.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]5 Para Meia-Noite 26 Novembro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p2076/p2076_1_20151126.mp4</link>
+<thumbnail>http://s20.postimg.org/rb6s86fgd/1d_OOi8y_B.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]5 Para Meia-Noite 25 Novembro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p2076/p2076_1_20151125.mp4</link>
+<thumbnail>http://s20.postimg.org/rb6s86fgd/1d_OOi8y_B.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]5 Para Meia-Noite 24 Novembro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p2076/p2076_1_20151124.mp4</link>
+<thumbnail>http://s20.postimg.org/rb6s86fgd/1d_OOi8y_B.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]5 Para Meia-Noite 23 Novembro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p2076/p2076_1_20151123.mp4</link>
+<thumbnail>http://s20.postimg.org/rb6s86fgd/1d_OOi8y_B.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]5 Para Meia-Noite 20 Novembro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p2076/p2076_1_20151120.mp4</link>
+<thumbnail>http://s20.postimg.org/rb6s86fgd/1d_OOi8y_B.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]5 Para Meia-Noite 19 Novembro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p2076/p2076_1_20151119.mp4</link>
+<thumbnail>http://s20.postimg.org/rb6s86fgd/1d_OOi8y_B.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]5 Para Meia-Noite 18 Novembro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p2076/p2076_1_20151118.mp4</link>
+<thumbnail>http://s20.postimg.org/rb6s86fgd/1d_OOi8y_B.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]5 Para Meia-Noite 17 Novembro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p2076/p2076_1_20151117.mp4</link>
+<thumbnail>http://s20.postimg.org/rb6s86fgd/1d_OOi8y_B.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]5 Para Meia-Noite 16 Novembro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p2076/p2076_1_20151116.mp4</link>
+<thumbnail>http://s20.postimg.org/rb6s86fgd/1d_OOi8y_B.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]5 Para Meia-Noite 12 Novembro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p2076/p2076_1_20151112.mp4</link>
+<thumbnail>http://s20.postimg.org/rb6s86fgd/1d_OOi8y_B.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]5 Para Meia-Noite 11 Novembro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p2076/p2076_1_20151111.mp4</link>
+<thumbnail>http://s20.postimg.org/rb6s86fgd/1d_OOi8y_B.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]5 Para Meia-Noite 09 Novembro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p2076/5meianoite_20151109.mp4</link>
+<thumbnail>http://s20.postimg.org/rb6s86fgd/1d_OOi8y_B.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]5 Para Meia-Noite 06 Novembro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p2076/p2076_1_20151106.mp4</link>
+<thumbnail>http://s20.postimg.org/rb6s86fgd/1d_OOi8y_B.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]5 Para Meia-Noite 05 Novembro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p2076/p2076_1_20151105.mp4</link>
+<thumbnail>http://s20.postimg.org/rb6s86fgd/1d_OOi8y_B.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]5 Para Meia-Noite 04 Novembro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p2076/p2076_1_20151104.mp4</link>
+<thumbnail>http://s20.postimg.org/rb6s86fgd/1d_OOi8y_B.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]5 Para Meia-Noite 03 Novembro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p2076/p2076_1_20151103.mp4</link>
+<thumbnail>http://s20.postimg.org/rb6s86fgd/1d_OOi8y_B.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]5 Para Meia-Noite 30 Outubro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p2076/p2076_1_20151030.mp4</link>
+<thumbnail>http://s20.postimg.org/rb6s86fgd/1d_OOi8y_B.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]5 Para Meia-Noite 29 Outubro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p2076/p2076_1_20151029.mp4</link>
+<thumbnail>http://s20.postimg.org/rb6s86fgd/1d_OOi8y_B.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]5 Para Meia-Noite 28 Outubro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p2076/p2076_1_20151028.mp4</link>
+<thumbnail>http://s20.postimg.org/rb6s86fgd/1d_OOi8y_B.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]5 Para Meia-Noite 27 Outubro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p2076/p2076_1_20151027.mp4</link>
+<thumbnail>http://s20.postimg.org/rb6s86fgd/1d_OOi8y_B.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]5 Para Meia-Noite 26 Outubro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p2076/p2076_1_20151026.mp4</link>
+<thumbnail>http://s20.postimg.org/rb6s86fgd/1d_OOi8y_B.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]5 Para Meia-Noite 23 Outubro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p2076/p2076_1_20151023.mp4</link>
+<thumbnail>http://s20.postimg.org/rb6s86fgd/1d_OOi8y_B.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]5 Para Meia-Noite 22 Outubro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p2076/p2076_1_20151022.mp4</link>
+<thumbnail>http://s20.postimg.org/rb6s86fgd/1d_OOi8y_B.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]5 Para Meia-Noite 21 Outubro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p2076/p2076_1_20151021.mp4</link>
+<thumbnail>http://s20.postimg.org/rb6s86fgd/1d_OOi8y_B.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]5 Para Meia-Noite 20 Outubro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p2076/5meianoite_20151020.mp4</link>
+<thumbnail>http://s20.postimg.org/rb6s86fgd/1d_OOi8y_B.jpg</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=yellow][B][I]5 Para Meia-Noite 19 Outubro 2015 [/I][/B][/COLOR]</title>
+<link>rtmp://rtpvodfs.fplive.net/rtpvod playpath=mp4:/nas2.share/h264/512x384/p2076/p2076_1_20151111.mp4</link>
+<thumbnail>http://s20.postimg.org/rb6s86fgd/1d_OOi8y_B.jpg</thumbnail>
+ </item>
